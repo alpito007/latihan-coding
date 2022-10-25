@@ -27,6 +27,12 @@
     font-size: 30px;
 }
 
+#biodata {
+    background: red;
+    width: 300px;
+    height: 300px;
+}
+
 .li-navbar:hover {
     background-color: tomato;
     transition: .5s ease-in-out;
